@@ -1,42 +1,143 @@
-### Hi there, I'm Ragini 🦦
 
-I build systems, break them to figure out how they work, and (usually) put them back together. 
+<div align="center">
 
-I am currently a Computer & Communication Engineering student at Amrita Vishwa Vidyapeetham, focusing heavily on software development, hardware integrations, and networking. I thrive on taking complex technical problems and engineering practical solutions. 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,35:8000FF,70:BD93F9,100:FF79C6&height=220&section=header&text=Ragini%20V%20S&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code%20%E2%80%A2%20Create%20%E2%80%A2%20Explore&descSize=18&descAlignY=58" />
 
-### What’s currently on my radar 🎯
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=1800&pause=500&color=CBA6F7&center=true&vCenter=true&width=700&lines=CCE+Undergraduate+%F0%9F%92%BB;Exploring+Cybersecurity+%F0%9F%94%90;Building+Cool+Things+%F0%9F%9A%80;Exploring+AI+%26+Intelligent+Systems+%F0%9F%A4%96;Turning+Ideas+Into+Reality+%E2%9C%A8;Always+Learning.+Always+Building.+%F0%9F%92%9C" alt="Animated typing introduction" />
 
-* **Building:** Researching indoor localization systems using UWB technology and coding real-time audio synthesizers.
-* **Collaborating:** Engaging with the tech ecosystem as an active member of the Init Club, Tensor, and the Amrita Centre for Entrepreneurship.
-* **Tech Stack:** Python, C/C++, Linux, SQL—plus an advanced degree in staring at syntax errors until they make sense.
-### Experience & Communities 🛠️
-* **The Init Club** — Member 
-* **Amrita Centre for Entrepreneurship** — Member 
-* **The Tensor Club** — Core Member- Software wing
+<br/>
 
-<!-- Visual Tech Stack Grid -->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,mysql,git,github&theme=dark" />
-  </a>
-</p>
+<img src="https://img.shields.io/badge/CYBERSECURITY-7B2CBF?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/DEVELOPMENT-9D4EDD?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/INTELLIGENT%20SYSTEMS-C77DFF?style=for-the-badge&logo=probot&logoColor=white" />
 
-### Let's Connect 📫
+<br/><br/>
 
-I’m always eager to learn and collaborate on projects that make a real-world impact. Let’s connect if you’re into software development, digital logic, or if you just want to debate the superiority of Linux.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/inigar23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C63FF?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/raginivs23)
 
-<!-- Contact Badges -->
-<p align="left">
-  <a href="mailto:raginiofficial05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/raginivs23">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/inigar23">
-    <img src="https://img.shields.io/badge/GitHub-Profile-lightgrey?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/brownmillet23">
-    <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+</div>
+
+---
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
+
+## 💜 About Me
+
+- 🎓 CCE undergraduate at Amrita Vishwa Vidyapeetham.
+- 🔐 Exploring cybersecurity and secure systems.
+- 💻 Interested in software development.
+- 🤖 Exploring AI and intelligent systems.
+- 🌱 Learning, experimenting, and building projects.
+
+<br clear="right"/>
+
+---
+
+## ⚡ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=c,python&theme=dark" />
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=linux,vscode,git,github,arduino&theme=dark" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=1600&pause=400&color=D0A2FF&center=true&vCenter=true&width=500&lines=Code+%3E+Debug+%3E+Repeat;Curiosity+is+my+superpower;Building+one+commit+at+a+time" alt="Developer motto animation" />
+
+</div>
+
+---
+
+## 🚀 Projects
+
+<div align="center">
+
+<a href="https://github.com/inigar23">
+<img src="https://img.shields.io/badge/PROJECT%2001-Indoor%20Localisation-7B2CBF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/inigar23">
+<img src="https://img.shields.io/badge/PROJECT%2002-SonicSense-C77DFF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<p><i>An Intelligent Music Recommendation and Genre Discovery System</i></p>
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NPTEL-Python%20for%20Data%20Science-8A2BE2?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Google-Cybersecurity%20Certificate-9D4EDD?style=for-the-badge&logo=google&logoColor=white" />
+
+</div>
+
+---
+
+## 🔮 Currently Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cybersecurity-6A00F4?style=flat-square&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Software%20Development-7B2CBF?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20%26%20Intelligent%20Systems-9D4EDD?style=flat-square" />
+<img src="https://img.shields.io/badge/Embedded%20Systems-C77DFF?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Structures-BB86FC?style=flat-square" />
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=C77DFF&center=true&vCenter=true&width=600&lines=Exploring+new+technologies...;Learning+by+doing...;Building+what's+next...;%3C%2F%3E+Keep+shipping!" alt="Exploration animation" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=inigar23&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0B16&title_color=C77DFF&icon_color=BB86FC&text_color=E6D7FF&rank_icon=github" alt="GitHub stats" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inigar23&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0B16&title_color=C77DFF&text_color=E6D7FF" alt="Most used languages" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=inigar23&theme=midnight-purple&hide_border=true&background=0D0B16&ring=C77DFF&fire=FF79C6&currStreakLabel=C77DFF" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🐍 Contribution Animation
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/inigar23/inigar23/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=800&color=C77DFF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%F0%9F%92%9C;See+you+in+the+next+commit!+%F0%9F%9A%80;Happy+Coding!+%E2%9C%A8" alt="Animated goodbye" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,35:8000FF,70:BD93F9,100:FF79C6&height=130&section=footer" />
+
+</div>
