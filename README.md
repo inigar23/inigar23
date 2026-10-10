@@ -54,25 +54,68 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/inigar23">
-<img src="https://img.shields.io/badge/PROJECT%2001-Indoor%20Localisation-7B2CBF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<h3 align="center">📍 Indoor Localisation</h3>
 
-<br/><br/>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Positioning-9B72CF?style=flat-square" />
+</p>
 
-<a href="https://github.com/inigar23">
-<img src="https://img.shields.io/badge/PROJECT%2002-SonicSense-C77DFF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**🎯 Overview**
 
-<br/><br/>
+A Python-based simulation that explores indoor device positioning using distances from multiple reference anchors.
 
-<p><i>An Intelligent Music Recommendation and Genre Discovery System</i></p>
+**⚙️ How It Works**
 
-</div>
+- Models reference anchors at known positions within an indoor environment.
+- Uses distances between a device and multiple anchors as inputs for position estimation.
+- Applies the principles of **trilateration** to estimate the device's coordinates.
+- Provides a simulation environment for exploring indoor positioning and localisation accuracy.
+
+**🧠 Technical Concepts**
+
+`Python` · `Trilateration` · `Coordinate Geometry` · `Position Estimation`
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🎵 SonicSense</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Audio%20Analysis-C77DFF?style=flat-square" />
+</p>
+
+**🎯 Overview**
+
+An intelligent music recommendation and genre discovery system that explores audio characteristics to help users discover music based on genre and musical similarities.
+
+**⚙️ How It Works**
+
+- Uses Python to process and analyse audio-related data.
+- Explores audio features that can help distinguish musical characteristics.
+- Implements genre classification to categorise music tracks.
+- Connects audio analysis with music discovery and recommendation possibilities.
+
+**🧠 Technical Concepts**
+
+`Python` · `Audio Analysis` · `Feature Extraction` · `Genre Classification`
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+<i>Building practical solutions through programming, simulation, and intelligent systems.</i>
+</p>
 
 ---
 
