@@ -20,7 +20,7 @@
 
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
+<img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Woman coding at her computer" />
 
 ## 💜 About Me
 
@@ -122,11 +122,11 @@
 
 ---
 
-## 🐍 Contribution Animation
+## 📈 Contributions
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/inigar23/inigar23/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+<img width="100%" src="https://raw.githubusercontent.com/inigar23/inigar23/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake" />
 
 </div>
 
@@ -141,3 +141,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,35:8000FF,70:BD93F9,100:FF79C6&height=130&section=footer" />
 
 </div>
+
