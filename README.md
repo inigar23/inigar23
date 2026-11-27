@@ -89,7 +89,7 @@ An **Attack Surface Intelligence & Vulnerability Assessment Platform** built fro
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">📍 Indoor Localisation</h3>
+<h3 align="center">📍 <a href="https://github.com/inigar23/indoor-localization">Indoor Localisation</a></h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-38BDF8?style=flat-square&logo=python&logoColor=0F172A" />
